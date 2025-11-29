@@ -13,3 +13,5 @@ This section covers the fundamental concepts required to design robust and scala
 | **[WebArchitectures](https://github.com/arey-pranay/Frontend-SysDes/blob/main/BuildingBlocks/WebArchitectures.md)** | An overview of common architectural patterns (MVC, MVVM, Clean Architecture) used in web development. |
 | **[WebPerformance](https://github.com/arey-pranay/Frontend-SysDes/blob/main/BuildingBlocks/WebPerformance.md)** | Key metrics, optimizations, and tools for improving the speed and responsiveness of web applications. |
 | **[WebRenderingPatterns](https://github.com/arey-pranay/Frontend-SysDes/blob/main/BuildingBlocks/WebRenderingPatterns.md)** | Deep dive into different rendering strategies (CSR, SSR, SSG, ISR, Streaming) and when to use them. |
+
+## 🌍[Real-World Examples](https://youtube.com/playlist?list=PL4OG1laG0gW_AcchCg1_adOzDAtnxMjPN&si=wrqzpM6EHQd2aYCT)
